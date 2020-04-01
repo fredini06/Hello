@@ -6,3 +6,7 @@ h1{
     font-size: 30px;
     font-family: helvetica, sans-serif;
 }
+
+body{
+    background-color: #2ecc71;
+}
